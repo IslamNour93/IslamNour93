@@ -8,7 +8,8 @@ I'm Islam from Egypt, and I'm a self-motivated iOS developer worked as a civil e
 -Swift
 -Objective-c
 
-- 🔭 I’m currently working on Instagram clone.
+- 🔭 I am going to publish a simple Lighting calculater on my developer account.
+- 🔭 I’m currently working on Uber clone.
 - 👋 You can reach me via islam.nour.elbahy@gmail.com
 
 
